@@ -1,0 +1,21 @@
+.tables{
+    height: 100vh;
+    margin: 20px;
+}
+.tables-para{
+    margin-bottom: 30px;
+}
+table{
+    border:1px solid black;
+    border-collapse: collapse;
+
+}
+table thead tr th {
+    padding-left: 40px;
+    border:1px solid black
+
+}
+table tbody tr td {
+    padding-left: 40px;
+    border:1px solid black
+}
